@@ -43,7 +43,7 @@
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-plain.svg" height="40" alt="C++ logo" href="https://cplusplus.com"/>
   <img width="15" />
-  <img src="(https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="C logo" href="https://www.c-language.org"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="C logo" href="https://www.c-language.org"/>
   <img width="10" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" href="https://www.docker.com"/>
   <img width="15" />
